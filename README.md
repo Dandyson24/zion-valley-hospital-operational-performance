@@ -145,6 +145,7 @@ This project demonstrates how healthcare data analytics can support hospital man
 **The objective of healthcare analytics is not merely to count patients, but to understand how efficiently healthcare services are delivered and where improvements can make a meaningful difference to patient experience.**
 
 This project reinforces the role of Business Intelligence in transforming hospital data into actionable operational intelligence.
+Link to Power BI: https://app.powerbi.com/groups/me/reports/30398d03-504e-43bb-b848-938d2b8cd4fb/65ad2bdaa6e15b0ef456?experience=power-bi
 
 
 ### 👨‍💻 Author
